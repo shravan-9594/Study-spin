@@ -1,0 +1,5 @@
+{
+  "name":"Study Spin","short_name":"Study Spin","description":"A study subject spinner and priority list.",
+  "start_url":"./","scope":"./","display":"standalone","background_color":"#111318","theme_color":"#111318","orientation":"portrait",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
